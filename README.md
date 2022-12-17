@@ -12,3 +12,7 @@ Buzzer pins:
   - (-) -> GND - grounding
   
 Use resistors at will.
+
+Feel free to modify the code to suit you, the pins I provided here will work "out of the box". The code was created for Arduino Uno, so keep in mind that other boards may have different pins. Just remember that the smoke detector is connected to an analog port!
+
+Have fun :)
