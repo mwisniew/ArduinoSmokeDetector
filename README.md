@@ -6,6 +6,7 @@ Sensor pins:
   - A0 -> A5 - amalog input
   - GND -> GND - grounding
   - VCC -> 5V - voltage
+
 Buzzer pins:
   - + -> D8 - digital output
   - - -> GND - grounding
