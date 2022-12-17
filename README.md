@@ -8,7 +8,7 @@ Sensor pins (sensor pin -> arduino pin - I/O):
   - VCC -> 5V - voltage
 
 Buzzer pins:
-  - + -> D8 - digital output
-  - - -> GND - grounding
+  - (+) -> D8 - digital output
+  - (-) -> GND - grounding
   
 Use resistors at will.
