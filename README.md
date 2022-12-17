@@ -1,9 +1,9 @@
 # ArduinoSmokeDetector
 Smoke detector based on Arduino
-This is the smoke detector based on MH - MQ Flying Fish sensor and a buzzer.
+This is a smoke detector based on MH - MQ Flying Fish sensor and a buzzer.
 
 Sensor pins (sensor pin -> arduino pin - I/O):
-  - A0 -> A5 - amalog input
+  - A0 -> A5 - analog input
   - GND -> GND - grounding
   - VCC -> 5V - voltage
 
