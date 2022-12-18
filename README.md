@@ -27,4 +27,6 @@ A0 -> A0 - analog input
 VCC -> 3V - voltage
 GND -> G - grounding
 
+Please change the delay at the bottom for a delay that will suit you.
+
 Have fun!
