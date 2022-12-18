@@ -16,4 +16,15 @@ Use resistors at will.
 
 Feel free to modify the code to suit you, the pins I provided here will work "out of the box". The code was created for Arduino Uno, so keep in mind that other boards may have different pins. Just remember that the smoke detector is connected to an analog port!
 
-Have fun :)
+The E-Mail version is based of the EMailSender library by xreef: https://github.com/xreef/EMailSender
+Huge thanks to them! (as their library has the MIT Licence, it is included in the main branch)
+
+For the E-Mail version I used the NodeMCU v3 board.
+
+Pins:
+
+A0 -> A0 - analog input
+VCC -> 3V - voltage
+GND -> G - grounding
+
+Have fun!
